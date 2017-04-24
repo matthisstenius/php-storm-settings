@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="dd" value="die(\Zend\Debug\Debug::dump($END$));" description="Craft::dd(statement)" toReformat="false" toShortenFQNames="true">
+  <template name="dd" value="\Zend\Debug\Debug::dump($END$);" description="Craft::dd(statement)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
