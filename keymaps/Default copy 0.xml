@@ -5,13 +5,14 @@
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
+  <action id="GotoSymbol" />
   <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
