@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintsrc" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="pug" type="PLAIN_TEXT" />
