@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="pug" type="Jade" />
       <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
       <mapping pattern=".eslintsrc" type="PLAIN_TEXT" />
       <mapping pattern="signUpAttempt.mustache" type="PLAIN_TEXT" />
@@ -8,6 +9,7 @@
       <mapping pattern="attemptedMailChange.mustache" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="pug" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
