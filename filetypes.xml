@@ -8,7 +8,6 @@
       <mapping pattern="attemptedMailChange.mustache" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="pug" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
